@@ -8,10 +8,13 @@ hr{
   border-width: 5px;
   width: 5%;
 }
-img{
+img {
 border-style: ridge;
 border-radius: 50%;
 border: 5px solid white;
+}
+h1:hover {
+  font-size: 34px;
 }
 h1 {
   color: #66BFBF;
@@ -19,4 +22,7 @@ h1 {
 
 h3 {
   color: #66BFBF;
+}
+.education {
+  font-size: 22px
 }
